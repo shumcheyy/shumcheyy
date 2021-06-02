@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on open source tools and research projects on Malware
 - 📫 You can reach me via 
 
-Linkedin -- https://linkedin.com/in/shuhey
-Twitter -- @garlandwars
-Email -- bhamchoubey@protonmail.com
+**Linkedin** -- https://linkedin.com/in/shuhey
+**Twitter** -- @garlandwars 
+**Email** -- bhamchoubey@protonmail.com
+**Website**-- https://shumcheyy.github.io
 
 
