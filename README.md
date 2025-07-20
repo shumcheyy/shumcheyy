@@ -4,10 +4,14 @@ Hi, I am Shubham. Blending application security with backend engineering, with a
 
 - Currently learning: Threat modeling,  memory/cgroup behavior, CI/CD hardening, Kubernetes Security
 
-- Working with: Go, Docker, Kubernetes, GitHub Advanced Security, Linux
+- Working with: Go, Docker, Kubernetes, GitHub Advanced Security, Linux, AI
 
 - Passionate about: breaking things to learn, securing what I build, and automating the boring stuff
 
 - On a journey to deeply master DevSecOps—code to cloud
 
 Always up for sharing ideas, weird bugs, or security war stories.
+
+Socials:
+
+[Linkedin](https://linkedin.com/in/shuhey)   [Website](https://securenimbus.cloud)     [Blog](https://dev.to/shubham_choubey)       
