@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @shumcheyy
-- 👀 I’m interested in the field of Penetration Testing, Devsecops and Cloud Security. 
-- 🌱 Currently learning about CI/CD pipeline, SAST, DAST, SCA and API Security.
-- 💞️ I’m looking to collaborate on open source tools and research projects on Malware
-- 📫 You can reach me via 
+👋 Hi, I am Shubham
+🔒 DevSecOps & Security Engineer | 3+ years in cybersecurity
+💻 Building secure, scalable solutions with Go, Python, and cloud-native tools
+🛠️ Passionate about CI/CD security, Kubernetes, and API protection
+🌐 Exploring GitHub Advanced Security, Terraform, and containerized environments
+📫 Let's connect to talk secure coding and DevSecOps!
 
-     **Linkedin** -- https://linkedin.com/in/shuhey <br>
-     **Twitter** -- @binaryelf  <br>
-     **Email** -- bhamchoubey@protonmail.com <br>
-     **Website**-- https://shumcheyy.github.io <br>
+ **Linkedin** -- https://linkedin.com/in/shuhey <br>
+ **Twitter** -- @binaryelf  <br>
+ **Email** -- bhamchoubey@protonmail.com <br>
+ **Website**-- https://securenimbus.cloud <br>
 
 
