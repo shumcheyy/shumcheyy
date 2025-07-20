@@ -14,6 +14,6 @@ Always up for sharing ideas, weird bugs, or security war stories.
 
 Socials:
 
-:linkedin: [Linkedin](https://linkedin.com/in/shuhey)   
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/342f5736-61c1-45b3-b9f9-4f280b29f22a" /> [Linkedin](https://linkedin.com/in/shuhey)   
 [Website](https://securenimbus.cloud)    
 [Blog](https://dev.to/shubham_choubey)       
