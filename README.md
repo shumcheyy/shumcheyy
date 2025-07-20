@@ -12,8 +12,6 @@ Hi, I am Shubham. Blending application security with backend engineering, with a
 
 Always up for sharing ideas, weird bugs, or security war stories.
 
-Socials:
+Reach out to me @ 
 
-[Linkedin](https://linkedin.com/in/shuhey)   
-[Website](https://securenimbus.cloud)    
-[Blog](https://dev.to/shubham_choubey)       
+[Linkedin](https://linkedin.com/in/shuhey)    [Website](https://securenimbus.cloud)     [Blog](https://dev.to/shubham_choubey)       
