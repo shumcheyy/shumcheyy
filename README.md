@@ -1,4 +1,4 @@
- Application Security |  Golang Appreciator |  DevSecOps Explorer
+ Application Security |  Devsecops
 
 Hi, I am Shubham. Blending application security with backend engineering, with a strong focus on building secure-by-design systems using Go. I enjoy digging into the internals of systems, understanding how things work under the hood, and turning that knowledge into practical tooling.
 
